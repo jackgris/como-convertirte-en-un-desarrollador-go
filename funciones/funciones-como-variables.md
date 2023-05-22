@@ -1,0 +1,2 @@
+# Funciones como variables
+

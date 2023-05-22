@@ -1,0 +1,2 @@
+# Alcance de un variable
+
